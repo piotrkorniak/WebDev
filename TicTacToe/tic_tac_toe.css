@@ -1,0 +1,25 @@
+body {
+    margin-top: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container {
+    margin: 50px;
+    padding: 20px;
+    display: inline-block;
+    border: solid black 1px;
+}
+
+.field{
+    height: 100px;
+    width: 100px;
+}
+
+.reset-button{
+    margin: 30px;
+}
+
+.board-line-container{
+    display: flex;
+}
